@@ -1,0 +1,4 @@
+function getKnowledge($money){
+	$result = $money + $knowledge;
+	echo($result);
+}
